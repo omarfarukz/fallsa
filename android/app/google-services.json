@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811666891797",
+    "project_id": "fallsa",
+    "storage_bucket": "fallsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811666891797:android:f5661bdc648309dd201a1c",
+        "android_client_info": {
+          "package_name": "com.example.fallsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811666891797-7bo2ftj3a8t317st8tkmrtukiep6c3sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fallsa",
+            "certificate_hash": "82e17f237b9c80ca216afc5937acf45be9636b6b"
+          }
+        },
+        {
+          "client_id": "811666891797-862pa3r95ohks9a086dgas7c87b56m80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU_ArnvYwHHB2vNRTN6OmhG8kQYPSF9p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811666891797-862pa3r95ohks9a086dgas7c87b56m80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
